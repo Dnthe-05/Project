@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|d:\\learning about code\\c#\\doan\\t\u00E2n th\u1EBF gi\u1EDBi\\gui_website\\quanly_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|solutionrelative:gui_website\\quanly_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\gui_website\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|solutionrelative:gui_website\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\gui_website\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|solutionrelative:gui_website\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\gui_website\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|solutionrelative:gui_website\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\gui_website\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|solutionrelative:gui_website\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\gui_website\\quanly_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F85537-1219-46BF-A361-573DEC10E788}|GUI_Website\\GUI_Website.csproj|solutionrelative:gui_website\\quanly_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLy_NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy_NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI_Website\\QuanLy_NhanVien.cs",
+              "ToolTip": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy_NhanVien.cs [Design]",
+              "RelativeToolTip": "GUI_Website\\QuanLy_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:37:00.708Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLy_NhanVien.cs",
+              "DocumentMoniker": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy_NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI_Website\\QuanLy_NhanVien.cs",
+              "ToolTip": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy_NhanVien.cs",
+              "RelativeToolTip": "GUI_Website\\QuanLy_NhanVien.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:40:29.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLy.cs",
+              "DocumentMoniker": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy.cs",
+              "RelativeDocumentMoniker": "GUI_Website\\QuanLy.cs",
+              "ToolTip": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy.cs",
+              "RelativeToolTip": "GUI_Website\\QuanLy.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:47:08.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI_Website\\DangNhap.cs",
+              "ToolTip": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\DangNhap.cs",
+              "RelativeToolTip": "GUI_Website\\DangNhap.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:11:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy.cs",
+              "RelativeDocumentMoniker": "GUI_Website\\QuanLy.cs",
+              "ToolTip": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\QuanLy.cs [Design]",
+              "RelativeToolTip": "GUI_Website\\QuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:11:11.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI_Website\\DangNhap.cs",
+              "ToolTip": "D:\\Learning about Code\\C#\\DoAn\\T\u00E2n Th\u1EBF Gi\u1EDBi\\GUI_Website\\DangNhap.cs [Design]",
+              "RelativeToolTip": "GUI_Website\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:22:14.2Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 45,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

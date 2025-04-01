@@ -1,0 +1,6 @@
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DTO_Website\bin\Debug\DTO_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DTO_Website\bin\Debug\DTO_Website.pdb
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DTO_Website\obj\Debug\DTO_Website.csproj.AssemblyReference.cache
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DTO_Website\obj\Debug\DTO_Website.csproj.CoreCompileInputs.cache
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DTO_Website\obj\Debug\DTO_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DTO_Website\obj\Debug\DTO_Website.pdb

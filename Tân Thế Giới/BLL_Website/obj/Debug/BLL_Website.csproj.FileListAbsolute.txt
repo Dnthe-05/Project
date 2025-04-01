@@ -1,0 +1,11 @@
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\bin\Debug\BLL_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\bin\Debug\BLL_Website.pdb
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\bin\Debug\DAL_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\bin\Debug\DTO_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\bin\Debug\DAL_Website.pdb
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\bin\Debug\DTO_Website.pdb
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\obj\Debug\BLL_Website.csproj.AssemblyReference.cache
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\obj\Debug\BLL_Website.csproj.CoreCompileInputs.cache
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\obj\Debug\BLL_Webs.9957C5A1.Up2Date
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\obj\Debug\BLL_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\BLL_Website\obj\Debug\BLL_Website.pdb

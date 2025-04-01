@@ -1,0 +1,9 @@
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\bin\Debug\DAL_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\bin\Debug\DAL_Website.pdb
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\bin\Debug\DTO_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\bin\Debug\DTO_Website.pdb
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\obj\Debug\DAL_Website.csproj.AssemblyReference.cache
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\obj\Debug\DAL_Website.csproj.CoreCompileInputs.cache
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\obj\Debug\DAL_Webs.4EE4E57B.Up2Date
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\obj\Debug\DAL_Website.dll
+D:\Learning about Code\C#\DoAn\Tân Thế Giới\DAL_Website\obj\Debug\DAL_Website.pdb
