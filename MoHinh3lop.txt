@@ -1,0 +1,10 @@
+GUI (Presentation Layer)
+ + UI Components
+ + UI Process Components 
+	=> Để thiết kế giao diện 
+BBL (Business Logic Player)
+ => Kiểm tra tính hợp lí của dữ liệu 
+	VD: Kiểm tra tk và mk 
+DAL (Data Access Player)
+=> Truy xuất cơ sỡ dữ liệu 
+DTO
